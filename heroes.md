@@ -6,4 +6,4 @@
 * Mujer Maravilla
 * Linterna Verde
 * Robin
-* Harley Quinn
+* Harley Quinn remote
