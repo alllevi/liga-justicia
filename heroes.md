@@ -7,3 +7,4 @@
 * Linterna Verde
 * Robin
 * Harley Quinn remote
+* Harley Quinn local
